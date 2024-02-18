@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(245, 78, 78);
+    
+}
+.clock
+{
+    background-color: rgb(209, 209, 209);
+    width: 300px;
+    height: 100px;
+    color: rgb(16, 73, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ss
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
